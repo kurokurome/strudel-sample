@@ -1,11 +1,10 @@
 {
-  "strudel-sample": [
-    "/Amen_1.wav",
-    "/amenbrother175bpm.wav",
-    "/bassport_amen.wav",
-    "/braindamage.wav",
-    "/inertiamen.wav"
+  "breaks": [
+    "Amen_1.wav",
+    "amenbrother175bpm.wav",
+    "bassport_amen.wav",
+    "braindamage.wav",
+    "inertiamen.wav"
   ],
   "_base": "https://raw.githubusercontent.com/kurokurome/strudel-sample/main/strudel.json"
 }
-
