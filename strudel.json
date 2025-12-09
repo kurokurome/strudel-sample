@@ -1,1 +1,11 @@
-{"breaks":["/breaks/Amen_1.wav","/breaks/amenbrother175bpm.wav","/breaks/bassport_amen.wav","/breaks/braindamage.wav","/breaks/inertiamen.wav"],"_base":"http://localhost:5432"}
+{
+  "breaks": [
+    "/breaks/Amen_1.wav",
+    "/breaks/amenbrother175bpm.wav",
+    "/breaks/bassport_amen.wav",
+    "/breaks/braindamage.wav",
+    "/breaks/inertiamen.wav"
+  ],
+  "_base": "https://raw.githubusercontent.com/kurokurome/strudel-sample/refs/heads/main/strudel.json"
+}
+
