@@ -6,6 +6,5 @@
     "/breaks/braindamage.wav",
     "/breaks/inertiamen.wav"
   ],
-  "_base": "https://raw.githubusercontent.com/kurokurome/strudel-sample/refs/heads/main/strudel.json"
+  "_base": "https://raw.githubusercontent.com/kurokurome/strudel-sample/main/strudel.json"
 }
-
